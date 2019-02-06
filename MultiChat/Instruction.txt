@@ -1,0 +1,4 @@
+Run it in Netbeans IDE
+
+1. Run "SERVER" class frist
+2. Then run "Client1" or "Client2" class
